@@ -7,6 +7,8 @@ The preprint describing the data can be accessed via: https://osf.io/mkzcq
 
 Here you will find the files used to prepare the dataset, create the baseline experiments, and the official k-fold splits of the dataset.
 
+![banner](https://raw.githubusercontent.com/simula/hyper-kvasir/master/static/images/banner.jpg?token=AD6YIMQMUVOT6FKFAEFE7GK6AYAGA)
+
 ## Repository Structure
 This repository has the following structure. *classification_experiments* contains the files used to perform the classification experiments presented in the paper. *clustering_experiments* contains the files used to the clustering experiments presented in the paper. This includes the predicted labels on the unlabeled images of the dataset. *official_splits* contains the official splits of the dataset. We recommend that users of this dataset use these splits in order to ensure a fair comparison of results. *scripts* contains a series of different scripts used to prepare the dataset, generate plots, and some baseline metrics. *static* contains some files used in this repository.
 
