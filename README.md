@@ -3,7 +3,7 @@ This is the code repository for the Hyper-Kvasir dataset which is the largest pu
 
 The full dataset can be dowloaded via: https://osf.io/mh9sj/?view_only=84c44cf06bfa4291adf93e5d9e569892
 
-The preprint describing the data can be accessed via: https://osf.io/mkzcq
+The paper describing the data can be accessed via: https://www.nature.com/articles/s41597-020-00622-y
 
 Here you will find the files used to prepare the dataset, create the baseline experiments, and the official k-fold splits of the dataset.
 
@@ -69,7 +69,7 @@ If you use this dataset in your research, Please cite the following paper:
 
 
 ## Terms of Use
-The data is released fully open for research and educational purposes. The use of the dataset for purposes such as competitions and commercial purposes needs prior written permission. In all documents and papers that use or refer to the dataset or report experimental results based on the Hyper-Kvasir, a reference to the related article needs to be added: https://osf.io/mkzcq.
+The data is released fully open for research and educational purposes. The use of the dataset for purposes such as competitions and commercial purposes needs prior written permission. In all documents and papers that use or refer to the dataset or report experimental results based on the Hyper-Kvasir, a reference to the related article needs to be added: https://www.nature.com/articles/s41597-020-00622-y.
 
 ## Contact
 Please contact steven@simula.no, michael@simula.no, or paalh@simula.no for any questions regarding the dataset.
